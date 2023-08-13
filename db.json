@@ -54,6 +54,61 @@
          "deleted_at": null,
          "created_at": "2023-08-13T17:08:20.000000Z",
          "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 6,
+         "user_id": 1,
+         "name": "UDAMuAPGha",
+         "image": "https://dev.ua/storage/images/15/57/50/71/derived/8a53af08d4184ea599fff98509d7f9b6.jpg",
+         "body": "xHc8m Wt96p T3lOW yAEMi 6DXEW CkZHV LdRXn uzMp8 1zrvm sb5Yh",
+         "date_publish": "2023-08-13 17:08:20",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 7,
+         "user_id": 1,
+         "name": "HI1GseaedB",
+         "image": "https://dev.ua/storage/images/15/57/50/71/derived/8a53af08d4184ea599fff98509d7f9b6.jpg",
+         "body": "wO3eS BRZPr ajUyJ KrfAO P9Egu XniBP yoTaZ k0DJ6 D8X9p 3C28G",
+         "date_publish": "2023-08-13 17:08:20",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 8,
+         "user_id": 1,
+         "name": "qd3jQjxmQS",
+         "image": "https://codingbootcamps.io/wp-content/uploads/m2.png",
+         "body": "nkhby UOi2s AWgmW DgTV4 coim5 1NWvT HGdMv l2bC2 TnhS5 dYo8z",
+         "date_publish": "2023-08-13 17:08:20",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 9,
+         "user_id": 1,
+         "name": "aUEFnMegJs",
+         "image": "https://codingbootcamps.io/wp-content/uploads/m2.png",
+         "body": "8bL7C NNsdC CsFGC XspnP 0Fcp8 7LKDh 9bCcK FLbLx GaXZl BZqsB",
+         "date_publish": "2023-08-13 17:08:20",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 10,
+         "user_id": 1,
+         "name": "JIRpYo6JXK",
+         "image": "https://preview.redd.it/49i3uht820k81.jpg?auto=webp&s=2c1d1b0d5ad51a6656daaca509f38881b18246f8",
+         "body": "lcfK7 ysVJt OYWsJ H5c0N sC6Zd bDm5w lcimG VcbL2 vFik4 Btsf1",
+         "date_publish": "2023-08-13 17:08:20",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
       }
    ],
    "comments": [
@@ -103,6 +158,26 @@
          "user_id": 1,
          "post_id": 2,
          "content": "pPTgR60bN4kJEc1k7hdE",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 6,
+         "parent_id": 5,
+         "user_id": 1,
+         "post_id": 2,
+         "content": "3vfeeYTDlAvt9xrddw3G",
+         "deleted_at": null,
+         "created_at": "2023-08-13T17:08:20.000000Z",
+         "updated_at": "2023-08-13T17:08:20.000000Z"
+      },
+      {
+         "id": 7,
+         "parent_id": null,
+         "user_id": 1,
+         "post_id": 2,
+         "content": "pc8jJJTaRX2cRbyDhtoc",
          "deleted_at": null,
          "created_at": "2023-08-13T17:08:20.000000Z",
          "updated_at": "2023-08-13T17:08:20.000000Z"
